@@ -1,2 +1,3 @@
 *.sql linguist-language=SQL
 *.sql linguist-detectable=true
+*.sh linguist-language=Shell
