@@ -4,10 +4,16 @@ Welcome to my repository of solutions to various competitive programming problem
 
 ## Valuable Links
 [Intro](https://www.youtube.com/watch?v=W5E-zZWz2RQ)
+
 [Low level System Design](https://www.youtube.com/watch?v=OhCp6ppX6bg)
+
 [Leetcode Problems Overview](https://www.youtube.com/watch?v=DjYZk8nrXVY)
+
 [Leetcode System Design Overview](https://www.youtube.com/watch?v=s9Qh9fWeOAk)
 
+[Learning Python in 8 minutes](https://www.youtube.com/watch?v=713PzJ_fhRE)
+
+[Advanced Python in 8 minutes](https://www.youtube.com/watch?v=xaJxt6yN04I)
 ## Contact
 
 For any queries or suggestions, feel free to reach out:
