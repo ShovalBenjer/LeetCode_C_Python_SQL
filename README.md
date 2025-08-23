@@ -1,6 +1,6 @@
 # CodeChef Competition Submissions
 
-Welcome to my repository of solutions to various competitive programming problems submitted on CodeChef. This repository serves as a personal archive for improving coding skills, exploring algorithmic challenges, and sharing alternative solutions.
+Welcome to my repository of solutions to various competitive programming problems submitted on CodeChef/LeetCode/DataLemur. This repository serves as a personal archive for improving coding skills, exploring algorithmic challenges, and sharing alternative solutions.
 
 ## Valuable Links
 [Intro](https://www.youtube.com/watch?v=W5E-zZWz2RQ)
